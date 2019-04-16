@@ -26,5 +26,5 @@
 * 采样率：44100Hz
 
 ### 文档
-* 程序：https://docs.cocos.com/creator/manual/zh/
-* 动画：http://movieeditor.jx3.xoyo.com/index.html
+* 程序：[Cocos Creator](https://docs.cocos.com/creator/manual/zh/)
+* 动画：[剑三动画编辑器](http://movieeditor.jx3.xoyo.com/index.html)
