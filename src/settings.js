@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],rawAssets:{assets:{}},assetTypes:[],launchScene:"db://assets/主场景.fire",scenes:[{url:"db://assets/主场景.fire",uuid:0}],packedAssets:{"0c5404a36":["91dGTU/4VOdIMZSpvVFZZ7","e0Ks+qZc5BxIn4e/MFAGAB",0]},md5AssetsMap:{},orientation:"",subpackages:{},uuids:["f1sVjf+hxP7KFRT1RdRRIP"]};
