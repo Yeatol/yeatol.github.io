@@ -24,3 +24,7 @@
 * 声道：2CH
 * 码率：128Kbps
 * 采样率：44100Hz
+
+### 文档
+* 程序：https://docs.cocos.com/creator/manual/zh/
+* 动画：http://movieeditor.jx3.xoyo.com/index.html
