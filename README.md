@@ -25,6 +25,6 @@
 * 码率：128Kbps
 * 采样率：44100Hz
 
-### 文档
+### 教程
 * 程序：[Cocos Creator](https://docs.cocos.com/creator/manual/zh/)
 * 动画：[剑三动画编辑器](http://movieeditor.jx3.xoyo.com/index.html)
